@@ -3,7 +3,7 @@ def unsafe?(speed)
 		return "Going #{speed} mph on the freeway would be unsafe"
 	else
 		return "Going #{[speed]} miles per hour is safe"
-
+  end
 end
 
 
